@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>THE INNOVATORS ACADEMY</h1>
+    <h5>               -An Ideal Institution</h5>
+    <strong>It is with immense pride and excitement that I welcome each and every one of you to The Innovators Academy. Today, we stand together on the threshold of something truly remarkable – the beginning of a journey that redefines education, creativity, and the pursuit of excellence.
+
+        At The Innovators Academy, we believe in the power of ideas and the endless possibilities they hold. Our mission is simple yet profound: to nurture minds, ignite curiosity, and empower students to become trailblazers in a world that is ever-changing and full of challenges.</strong>
+        <mark>We are not just a school – we are a community. A community where students are encouraged to think beyond the ordinary, where dreams are transformed into realities, and where innovation is at the very heart of everything we do.</mark>
+        <strong>From our world-class curriculum aligned with the Cambridge Assessment International Education (CAIE) to the vibrant array of extracurricular activities that cater to every interest and talent, The Innovators Academy is designed to inspire greatness in every student. Whether it's through arts, sciences, sports, or leadership, we provide the tools, opportunities, and support to help our students shine.</strong>
+        <mark>Our dedicated educators are not just teachers; they are mentors and guides who are committed to unlocking the unique potential of each student. We encourage collaboration, foster critical thinking, and celebrate creativity – values that will prepare our students for success in their academic journey and beyond.
+
+            We take immense pride in creating an environment where every child feels safe, valued, and empowered to be their authentic self. Together, we will build a culture of kindness, respect, and mutual support, where no dream is too big, and no challenge is too great.</mark>
+            <strong>So, as we embark on this incredible journey together, I extend my heartfelt gratitude to our students, parents, teachers, and staff who have made The Innovators Academy a reality. Let us work hand-in-hand to inspire minds, innovate boldly, and shape a brighter future for generations to come.
+
+                Welcome to The Innovators Academy – where innovation meets inspiration, and every student becomes a visionary!
+                
+                Thank you.</strong>
+    <table border="5">
+        <tr>
+            <th>Faculty</th>
+            <th>Faculty Members</th>
+        </tr>
+        <tr>
+            <td>Mathematics (Core and Extended)</td>
+            <td>Prof. Ms. Julie Alderton</td>
+        </tr>
+        <tr>
+            <td>Pure Mathematics and Further Mathematics</td>
+            <td>Prof. Mr. Steven Watson</td>
+        </tr>
+        <tr>
+            <td>Physics</td>
+            <td>Mr. Mark Rober</td>
+        </tr>
+        <tr>
+            <td>Chemistry</td>
+            <td>Mr. Osman Shahab</td>
+        </tr>
+        <tr>
+            <td>Biology</td>
+            <td>Dr. Mr.Daniyal Karimi</td>
+        </tr>
+        <tr>
+            <td>Economics or Business Studies</td>
+            <td>Dr. Mr. Mohammad Musa</td>
+        </tr>
+        <tr>
+            <td>Accounting or Commerce</td>
+            <td>Prof. Ms. Chris Petal</td>
+        </tr>
+        <tr>
+            <td>History and Geography</td>
+            <td>Prof. Mr. Mohammad Sofi Ullah</td>
+        </tr>
+        <tr>
+            <td>ICT/Computer Science</td>
+            <td>Dr. Md. Monirul Islam</td>
+        </tr>
+        <tr>
+            <td>Art and Design</td>
+            <td>Ms. Sophia Okotah</td>
+        </tr>
+        <tr>
+            <td>English Language and English Literature</td>
+            <td>Prof. Mr. Richard McCabe</td>
+        </tr>
+        <tr>
+            <td>Bangla (First Language or Second Language)</td>
+            <td>Prof. Ms. Kabistara Khatun</td>
+        </tr>
+        <tr>
+            <td>Sports Coach/Physical Education (PE) Teacher</td>
+            <td>Mr. Gershom</td>
+        </tr>
+        <tr>
+            <td>Music and Performing Arts Faculty</td>
+            <td>Prof. Ms. Maya Roth</td>
+        </tr>
+        <tr>
+            <td>Counselor/University Advisor</td>
+            <td>Prof. Ms. Elisa Swani</td>
+        </tr>
+        <tr>
+            <td>ECA Instructor</td>
+            <td>Prof. Ms. Lyn</td>
+        </tr>
+    </table> <br>
+Here is school's our logo. <br>
+<img src="F (1).png" alt="THE INVATOR'S ACADEMY"> <br>
+Here is the speech of our honourable principle, Prof. Dr. Mr. Anindya Ghosh. <br>
+<audio controls>
+    <source src="Ember-2024_12_26-2.wav" type="audio/mpeg">
+</audio> <br>
+Here is a whole overview of our school. <br>
+<video controls height="500px" width="700px">
+<source src="invideo-ai-1080 Welcome to THE INNOVATORS ACADEMY! 2024-12-26.mp4" type="video/mp4"> <br>
+</video> <br>
+<p>
+    It is an honor to introduce to you THE EXPLORER'S NOTEBOOK, a dynamic and inspiring initiative by THE INNOVATORS ACADEMY. This is not just a newsletter—it is a gateway to exploring the limitless potential within each of us, sparking innovation, and driving meaningful change in our world."
+    <nav>
+        <li><a href="https://anindyas-newsletter-b3b076.beehiiv.com/?_gl=1*kbm69m*_gcl_au*NTkyNzMxNDczLjE3MzQ4MDk3MzU.*_ga*MTY4MzQ1NzY1LjE3MjY1NTQwNzk.*_ga_E6Y4WLQ2EC*MTczNjQ0MTk3Ny40MC4xLjE3MzY0NDE5OTQuNDMuMS42NDU2ODI0MTc. #THE EXPLORER'S NOTEBOOK">THE EXPLORER'S NOTEBOOK</a></li>
+    </nav>
+</p> <br>
+<video controls height="500px" width="700px">
+    <source src="invideo-ai-1080 Introducing THE EXPLORER'S NOTEBOOK by T 2025-01-09.mp4" type="video/mp4"> <br>
+</video> <br>
+Join us, : <a href="http://127.0.0.1:3000/formschl.html">http://127.0.0.1:3000/formschl.html</a>
+<footer>
+    <p>Please, contact us through email : <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">anindyaprofessional122521@gmail.com
+    </a></p> <br>
+</footer>
+</body>
+</html>
